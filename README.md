@@ -11,5 +11,5 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 ## Key Findings:
 1. Machine Learning model predicts loan outcomes with 99.4% accuracy
 2. This accuracy improvement has a monetary value of millions for Prosper
-3. Customers of higher credit rating receive better conditions that lower ratings. This relationship is untrue for Income Range and Prosper Score.
-4. Imputation algorithm outperforms random selection by 20x.
+3. Imputation algorithm outperforms random selection by 20x.
+4. Customers of higher credit rating receive better conditions that lower ratings. This relationship is untrue for Income Range and Prosper Score.
