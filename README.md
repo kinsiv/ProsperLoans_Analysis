@@ -14,3 +14,4 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 2. Profit gains of $226,208,838.
 3. Reduces financial loss from unpaid principal amounts, $277,268,374 or less.
 4. Imputation algorithm outperforms random selection by 18x.
+5. Credit Score is signfificantly proven to affect loan conditions (APR and principal amount). Income Ranges are recommended to have benefits for affluential customers.
