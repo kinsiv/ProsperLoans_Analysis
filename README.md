@@ -10,7 +10,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 
 ## Business & Actionable Insights:
 *Dataset size (N) is 55,071 loans.*
-*Financial evaluations are calculated on profit average ($6,783.58) and derived from compund interest equation with population averages entered. APR = 22%, Length = 36 months, Loan Principal amount = $8314.76.*
+*Financial evaluations are calculated on profit average ($6,783.58) and derived from compund interest equation with population averages entered. APR = 22%, length = 36 months, loan principal amount = $8314.76.*
 1. 99.4% accurate machine learning predictor model.
 2. Profit gains of $226,208,838.
 3. Reduces financial loss from unpaid principal amounts, $277,268,374 or less.
