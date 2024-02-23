@@ -8,7 +8,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 4. Are classifications or measurements evaluated by Prosper regarding loan applicants utilized in alotting them conditions?
 5. Can loan outcomes be predicted for new customers who apply?
 
-## Key Findings:
+## Business & Actionable Insights:
 *Dataset size (N) is 55,071 loans.*
 1. 99.4% accurate machine learning predictor model.
 2. Profit gains of $226,208,838.
