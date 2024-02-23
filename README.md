@@ -12,5 +12,5 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 *Dataset size (N) is 55,071 loans.*
 1. Machine Learning model predicts loan outcomes with 99.4% accuracy.
 2. Profit gains of $226,208,838.
-3. Reduces risk from unpaid principal amounts, $277,268,374 or less.
+3. Reduces financial loss from unpaid principal amounts, $277,268,374 or less.
 4. Imputation algorithm outperforms random selection by 18x.
