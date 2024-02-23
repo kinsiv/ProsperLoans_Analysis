@@ -14,4 +14,3 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 2. Profit gains of $226,208,838.
 3. Reduces risk from unpaid principal amounts, $277,268,374 or less.
 4. Imputation algorithm outperforms random selection by 18x.
-5. Customers of higher credit rating receive better conditions than lower ratings. This relationship is untrue for Income Range and Prosper Score.
