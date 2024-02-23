@@ -13,5 +13,5 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 1. 99.4% accurate machine learning predictor model.
 2. Profit gains of $226,208,838.
 3. Reduces financial loss from unpaid principal amounts, $277,268,374 or less.
-4. Imputation algorithm outperforms random selection by 18x.
+4. Logistic Regression imputation outperforms random selection by 18x.
 5. Credit Score is significantly proven to affect APR and the principal amount. It's recommended to incentivize benefits for affluential customers, those of higher income ranges ($75,000+).
