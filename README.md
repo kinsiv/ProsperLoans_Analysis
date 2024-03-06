@@ -8,7 +8,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 4. Are classifications or measurements evaluated by Prosper regarding loan applicants utilized in alotting them conditions?
 5. Can loan outcomes be predicted for new customers who apply?
 
-## Business & Actionable Insights:
+## Actionable Insights:
 *Dataset size (N) is 55,071 loans.*
 *Financial evaluations are calculated on profit average ($6,783.58) and derived from compound interest equation (yearly compound) with population averages entered. APR = 22%, length = 36 months, loan principal amount = $8314.76.*
 1. Integrate 99.4% accuracy predictor model into the approval process.
