@@ -8,11 +8,9 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 4. Are classifications or measurements evaluated by Prosper regarding loan applicants utilized in alotting them conditions?
 5. Can loan outcomes be predicted for new customers who apply?
 
-## Actionable Insights:
-*Dataset size (N) is 55,071 loans.*
+## Actionable & Business Insights:
 *Financial evaluations are calculated on profit average ($6,783.58) and derived from compound interest equation (yearly compound) with population averages entered. APR = 22%, length = 36 months, loan principal amount = $8314.76.*
-1. Integrate 99.4% accuracy forecast model into the approval process.
-2. Profit of $226,208,838 for a 258% gain.
+1. Integrate 99.4% accuracy forecast model into the approval process to realize profit of $226,208,838 for a 258% gain over the next 55,071 loans.
 3. ROI loss due to unpaid principle amounts at $2,789,880 from $141,434,067.
 4. Minimize risk by appointing customers a numeric rating from the proposed red flag system. It accounts for common indicators such as Current Delinquencies, Open Credit Lines, and Bankcard Utilization.
 5. Logistic Regression imputation outperforms random selection by 18x.
