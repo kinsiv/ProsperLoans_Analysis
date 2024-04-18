@@ -33,4 +33,8 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 
 4. Prosper Ratings of 1 & 2 show potential Estimated Loss potential that can be troublesome for that account's revenue. This can be mitigated with APR and additional fees. The average (%) Estimated Loss for them is .155, confidence interval of [.152, .157], with a CL of 97.5%.
 
+![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/fcf5fd69-db60-4152-820b-f1c3b1e480cd)
 
+
+
+5. 
