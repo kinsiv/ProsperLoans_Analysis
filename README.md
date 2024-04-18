@@ -15,7 +15,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/04915035-7962-412f-be26-d8c2dae271f5)
 
 
-![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/c58f6a8a-1651-4d4a-a916-e6a24c5dcc69)
+![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01)
 
 2. ROI loss due to unpaid principle amounts at $2,789,880 from $141,434,067.
 
