@@ -12,14 +12,14 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 *Financial evaluations are calculated on profit average ($6,783.58) and derived from compound interest equation (yearly compound) with population averages entered. APR = 22%, length = 36 months, loan principal amount = $8314.76.*
 1. Integrate 99.4% accuracy forecast model into the approval process to realize profit of $226,208,838 for a 258% gain over the next 55,071 loans.
 
-![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/04915035-7962-412f-be26-d8c2dae271f5)
+![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/b2a2f892-19c6-4921-a25e-764a24a4d884)
 
 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01)
 
 2. ROI loss due to unpaid principle amounts at $2,789,880 from $141,434,067.
 
-![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/4fee2fba-2807-4270-a3d6-cbf1bc7f1e37)
+![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/8b3b5c01-80d9-4fa2-b9d2-d43b508ebefe)
 
 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01)
