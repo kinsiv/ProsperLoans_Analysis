@@ -15,12 +15,14 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/04915035-7962-412f-be26-d8c2dae271f5)
 
 
+![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/c58f6a8a-1651-4d4a-a916-e6a24c5dcc69)
 
 2. ROI loss due to unpaid principle amounts at $2,789,880 from $141,434,067.
 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/4fee2fba-2807-4270-a3d6-cbf1bc7f1e37)
 
 
+![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/8e3b08d0-549c-4081-b7a6-ab97f5e4c0a9)
 
 ### Proposed Red Flag System
 *Prosper Rating is a numeric scale which summarizes financial aspects of a customer, from their loan request. Lower scores have more cash associated with the loan.*
@@ -30,11 +32,13 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/d7d49c78-597f-4ea6-83ca-2a41a291f77d)
 
 
+![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/4577795d-ef4a-4d47-ad5a-dde7622958c5)
 
 4. Prosper Ratings of 1 & 2 show potential Estimated Loss potential that can be troublesome for that account's revenue. This can be mitigated with APR and additional fees. The average (%) Estimated Loss for them is .155, confidence interval of [.152, .157], with a CL of 97.5%.
 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/fcf5fd69-db60-4152-820b-f1c3b1e480cd)
 
 
+![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/38102b6a-113c-4da2-b855-4a5a7ca5feb8)
 
 5. 
