@@ -18,6 +18,8 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 
 2. ROI loss due to unpaid principle amounts at $2,789,880 from $141,434,067.
 
+![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/13d68b22-d9ed-474c-a9e2-ca70683feb0f)
+
 
 
 3. Minimize risk by appointing customers a numeric rating from the proposed red flag system. It accounts for common indicators such as Current Delinquencies, Open Credit Lines, and Bankcard Utilization.
