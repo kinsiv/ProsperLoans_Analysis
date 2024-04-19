@@ -48,7 +48,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
     <img src="https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01" alt="Your Image"/>
 </div>
 
-5. Debt To Income Ratio (DTR) is representative of a customer's current obligations. When they make payments to these, the possible saftey net for preventing default(s) diminishes. Preferred DTR ratio is <=.36, which a new user is 85.08% likely to ascertain. There's risky approvals handed out to unsatisfactory DTRs of >=.43, which a new user is 4.95% likely to ascertain. Denial of these applications can lead to fewer defaults, as is industry standard.
+5. Preferred DTR ratio is <=.36, which a new user is 85.08% likely to ascertain. There's risky approvals handed out to unsatisfactory DTRs of >=.43, which a new user is 4.95% likely to ascertain. Denial of these applications can lead to fewer defaults, as is industry standard.
 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/25717cd7-57d2-4fa6-ae54-f449070c8de6)
 
