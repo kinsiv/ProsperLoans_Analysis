@@ -30,7 +30,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 *Prosper Rating is a numeric scale which summarizes financial aspects of a customer, from their loan request. Lower scores have more cash associated with the loan.*
 
 3. Credit scores are heavily weighed against a person's bankcard utilization, as higher ratios are found sooner to default on loans. The chart shows how Poor & Fair utilize credit exceedingly more than counterparts. These customers should have restricted loan amounts.
-* Average (%) Estimated: .657, Confidence Interval: [.665, .649], CL: 97.5%
+* Average (%) Estimate: .657, Confidence Interval: [.665, .649], CL: 97.5%
 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/93ca6d23-dfe8-4082-aa95-f03b62ae6db9)
 
