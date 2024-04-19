@@ -33,7 +33,7 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 
 3. Credit scores are heavily weighed against a person's bankcard utilization, as higher ratios are found sooner to default on loans. The chart shows how Poor & Fair utilize credit exceedingly more than counterparts. These customers should have restricted loan amounts. They have an average (%) of .657, confidence interval of [.649, .665] with a CL of 97.5%.
 
-![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/d7d49c78-597f-4ea6-83ca-2a41a291f77d)
+![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/93ca6d23-dfe8-4082-aa95-f03b62ae6db9)
 
 
 <div align="center">
