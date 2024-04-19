@@ -48,7 +48,9 @@ Loan approval strategy success is awarded based on foresight and caution. These 
     <img src="https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01" alt="Your Image"/>
 </div>
 
-5. Preferred DTR ratio is <=.36, which a new user is 85.08% likely to ascertain. There's risky approvals handed out to unsatisfactory DTRs of >=.43, which a new user is 4.95% likely to ascertain. Denial of these applications can lead to fewer defaults, as is industry standard.
+5. Preferred DTR ratio is <=.36, which a new user is 85.08% likely to ascertain (1). There's risky approvals handed out to unsatisfactory DTRs of >=.43, which a new user is 4.95% likely to ascertain (2). Denial of these applications can lead to fewer defaults, as is industry standard.
+1. Confident Interval: [.359, .36], with a CI of 97.5%
+2. Confidence Interval: [.428, .432], with a CI of 97.5%
 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/25717cd7-57d2-4fa6-ae54-f449070c8de6)
 
