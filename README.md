@@ -49,3 +49,5 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 </div>
 
 5. 
+
+![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/762028db-c3e5-4a74-9722-1e05a4d591a6)
