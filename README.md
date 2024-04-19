@@ -29,7 +29,8 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 ### Proposed Red Flag System
 *Prosper Rating is a numeric scale which summarizes financial aspects of a customer, from their loan request. Lower scores have more cash associated with the loan.*
 
-3. Credit scores are heavily weighed against a person's bankcard utilization, as higher ratios are found sooner to default on loans. The chart shows how Poor & Fair utilize credit exceedingly more than counterparts. These customers should have restricted loan amounts. They have an average (%) of .657, confidence interval of [.665, .649] with a CL of 97.5%.
+3. Credit scores are heavily weighed against a person's bankcard utilization, as higher ratios are found sooner to default on loans. The chart shows how Poor & Fair utilize credit exceedingly more than counterparts. These customers should have restricted loan amounts.
+* Average (%) Estimated: .657, Confidence Interval: [.665, .649], CL: 97.5%
 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/93ca6d23-dfe8-4082-aa95-f03b62ae6db9)
 
@@ -38,7 +39,8 @@ Loan approval strategy success is awarded based on foresight and caution. These 
     <img src="https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/2ae8ad63-a12e-40d9-9d18-b593d13c7f01" alt="Your Image"/>
 </div>
 
-4. Prosper Ratings of 1 & 2 show potential Estimated Loss potential that can be troublesome for that account's revenue. This can be mitigated with APR and additional fees. The average (%) Estimated Loss for them is .155, confidence interval of [.152, .157], with a CL of 97.5%.
+4. Prosper Ratings of 1 & 2 show potential Estimated Loss potential that can be troublesome for that account's revenue. This can be mitigated with APR and additional fees.
+* Average (%) Estimated Loss: .155, Confidence Interval: [.152, .157], CL: 97.5%
 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/fcf5fd69-db60-4152-820b-f1c3b1e480cd)
 
@@ -47,8 +49,8 @@ Loan approval strategy success is awarded based on foresight and caution. These 
 </div>
 
 5. Preferred DTR ratio is <=.36, which a new user is 85.08% likely to ascertain. There's risky approvals handed out to unsatisfactory DTRs of >=.43, which a new user is 4.95% likely to ascertain. Denial of these applications can lead to fewer defaults, as is industry standard.
-* Estimate: .36, Confident Interval: [.359, .36], with a CI of 97.5%
-* Estimate: .43, Confidence Interval: [.428, .432], with a CI of 97.5%
+* Estimate: .36, Confident Interval: [.359, .36], CL: 97.5%
+* Estimate: .43, Confidence Interval: [.428, .432], CL: 97.5%
 
 ![image](https://github.com/kinsiv/ProsperLoans_Analysis/assets/89998643/25717cd7-57d2-4fa6-ae54-f449070c8de6)
 
